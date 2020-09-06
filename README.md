@@ -1,7 +1,7 @@
 # testmanager
 ![image](https://user-images.githubusercontent.com/20578508/82729484-88f27600-9d2a-11ea-8031-ab947d42fcb4.png "testmanager")
 
-基于python3.7.4和pyqt5实现的配置项测试用例管理工具单机版，能够方便的对测试用例进行设计和管理。主要包括以下功能：
+基于python2.7和pyqt4实现的配置项测试用例管理工具单机版，能够方便的对测试用例进行设计和管理。主要包括以下功能：
 
 + 添加测试用例
 + 修改测试用例
@@ -14,5 +14,5 @@
 基于上述功能可减少人工编写文档的工作量，同时导出得到json格式的测试用例相比于word文档更加便于项目团队对测试用例进行版本控制。
 
 运行环境要求（已在以下环境进行测试）：
-+ windows 7 64bit，windows 10 64bit
++ windows XP SP3 32Bit
 + office word 2010
